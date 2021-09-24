@@ -14,4 +14,4 @@ python3 main.py '5,11,2,7,16'
 ```bash
 python3 main.py 5 11 2 7 16
 ```
-Will be parsed in the correct way
+The program will take care of this job.. Don't worry. You can submit your Maths Home Work tomorrow.
