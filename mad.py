@@ -4,14 +4,14 @@ import conf_
 
 def find_mad(data_set):
 
-	population = len(data_set) # Adding 1 since it counts from 0
+	population = len(data_set)
 
 	total = 0
 
 	for element in data_set:
 		total += int(element)
 
-	mean = round((total / population),conf_.decimal_points) # Simply keeps one decimal point
+	mean = round((total / population),conf_.decimal_points)
 
 
 	total_ = 0

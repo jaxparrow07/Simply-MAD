@@ -4,6 +4,10 @@ import conf_
 
 def main():
 
+	if len(sys.argv) == 1:
+		print("[!] Please pass dataset by either comma seperated string or in multiple arguments")
+		exit(1)
+
 	data_set = sys.argv
 	del data_set[0]
 
