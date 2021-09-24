@@ -2,7 +2,7 @@
 To find the Mean Average Deviation of a data set
 
 ```
-I ain't no professional math guy. This is for 8th grade and I finally able to understand this in 11th grade. TEHC
+I ain't no professional math guy. This is for 8th grade and now I'm finally able to understand this in 11th grade. TEHC
 ```
 Don't be fooled by the funny description lol . I've worked on several serious projects too. This one was made for some experiment stuff and I wanted to know if I could implement this on python in a so simpler and easier way. I know this code can be improved in differnt ways. *exhales heavily*
 
