@@ -19,7 +19,7 @@ def main():
 
 	# After getting the dataset as list.. Do the actual math in the mad module
 
-	formatted_set:str = str(data_set).replace('[','{').replace(']','}').replace("\"","").replace("'",'') # I am lazy to do a hard way.. So, easy way go brr
+	formatted_set:str = str(data_set).replace('[','{ ').replace(']',' }').replace("\"","").replace("'",'') # I am lazy to do a hard way.. So, easy way go brr
 
 	value = mad.find_mad(data_set)
 

@@ -15,3 +15,12 @@ python3 main.py '5,11,2,7,16'
 python3 main.py 5 11 2 7 16
 ```
 The program will take care of this job.. Don't worry. You can submit your Maths Home Work tomorrow.
+
+**Output**
+```
+Data set = { 5, 11, 2, 7, 16 }
+Mean : 8.2
+Population : 5
+
+The Mean Average Deviation is 4.2
+```
